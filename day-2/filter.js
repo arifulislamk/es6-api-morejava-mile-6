@@ -6,4 +6,4 @@ const selected = numbers.filter(num => num>70);
 
 const friend = ['shakib', 'tuhin', 'rokib', 'ariful'];
 const result = friend.filter(f => f.length === 5);
-// console.log(result);
+// console.log(result);         
